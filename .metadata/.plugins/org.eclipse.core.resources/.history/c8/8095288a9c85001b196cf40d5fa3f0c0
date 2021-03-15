@@ -65,7 +65,7 @@ public class Main {
 			}
 		}*/
 		
-		CodeGen(s);
+		Bejar(s);
 		
 		// Transforming the model into a graph representation
 		String content = model2gml.transform(root);
@@ -151,14 +151,6 @@ public class Main {
 		
 		pCode = pCode + "}\n";
 		
-		main = main + "case \"exit\": \nscanner.close();\nSystem.exit(0);\ndefault:\nSystem.out.println(\"Unknown event!\");\n}\n" + 
-				"s.runCycle();\r\n" + 
-				"\n" + 
-				"print(s);\n" + 
-				"}\n" + 
-				"}\n";
 		
-		System.out.println(String.format("public class GeneratedCode {\n"
-				+ "%s\n%s\n}", main, pCode));
 	}
 }

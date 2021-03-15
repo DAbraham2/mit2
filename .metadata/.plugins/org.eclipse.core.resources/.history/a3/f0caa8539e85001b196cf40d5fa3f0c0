@@ -160,5 +160,6 @@ public class Main {
 		
 		System.out.println(String.format("public class GeneratedCode {\n"
 				+ "%s\n%s\n}", main, pCode));
+		
 	}
 }
