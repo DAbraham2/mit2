@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1615816890231" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.yakindu.sct" plugin-identifier="org.yakindu.sct.branding" url="features/org.yakindu.sct_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.cdt" url="features/org.eclipse.cdt_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.14.2.v20180801-2237/" version="3.14.2.v20180801-2237">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.2.300.v20180906-0745/" version="2.2.300.v20180906-0745">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.13.200.v20180906-0745/" version="3.13.200.v20180906-0745">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.100.v20180301-0132/" version="1.1.100.v20180301-0132">
+</feature>
+<feature id="com.yakindu.products.license.feature" url="features/com.yakindu.products.license.feature_2.0.0.201807201311/" version="2.0.0.201807201311">
+</feature>
+<feature id="org.eclipse.cdt.gnu.dsf" url="features/org.eclipse.cdt.gnu.dsf_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.yakindu.base.xtext.utils.gmf" url="features/org.yakindu.base.xtext.utils.gmf_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.cdt.gnu.build" url="features/org.eclipse.cdt.gnu.build_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.eclipse.xtext.xbase.lib" url="features/org.eclipse.xtext.xbase.lib_2.15.0.v20180916-1132/" version="2.15.0.v20180916-1132">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.15.0.v20180906-0745/" version="3.15.0.v20180906-0745">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.5.100.v20180829-1443/" version="1.5.100.v20180829-1443">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.15.0.v20180723-1316/" version="2.15.0.v20180723-1316">
+</feature>
+<feature id="org.yakindu.sct.generator.java" plugin-identifier="org.yakindu.sct.branding" url="features/org.yakindu.sct.generator.java_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.100.v20180301-0201/" version="1.1.100.v20180301-0201">
+</feature>
+<feature id="org.eclipse.xtend.sdk" plugin-identifier="org.eclipse.xtend.ide" url="features/org.eclipse.xtend.sdk_2.15.0.v20180916-1232/" version="2.15.0.v20180916-1232">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.100.v20180301-0132/" version="1.1.100.v20180301-0132">
+</feature>
+<feature id="com.yakindu.sct.aeri.feature" url="features/com.yakindu.sct.aeri.feature_3.5.1.201902261438/" version="3.5.1.201902261438">
+</feature>
+<feature id="org.eclipse.cdt.platform" url="features/org.eclipse.cdt.platform_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.eclipse.userstorage" url="features/org.eclipse.userstorage_1.1.0.v20170526-1605/" version="1.1.0.v20170526-1605">
+</feature>
+<feature id="org.eclipse.xtext.runtime" url="features/org.eclipse.xtext.runtime_2.15.0.v20180916-1232/" version="2.15.0.v20180916-1232">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.4.100.v20180829-1443/" version="2.4.100.v20180829-1443">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.15.0.v20180722-1159/" version="2.15.0.v20180722-1159">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.4.100.v20180829-1443/" version="1.4.100.v20180829-1443">
+</feature>
+<feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.5.1.v20180810-0833/" version="1.5.1.v20180810-0833">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.9.0.v20180906-1121/" version="4.9.0.v20180906-1121">
+</feature>
+<feature id="de.vonloesch.pdf4eclipse" url="features/de.vonloesch.pdf4eclipse_1.1.0/" version="1.1.0">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.100.v20180822-1357/" version="1.2.100.v20180822-1357">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.100.v20180829-1443/" version="1.4.100.v20180829-1443">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.14.2.v20180801-2237/" version="3.14.2.v20180801-2237">
+</feature>
+<feature id="org.yakindu.base.gmf.runtime" url="features/org.yakindu.base.gmf.runtime_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.xtext.ui" url="features/org.eclipse.xtext.ui_2.15.0.v20180916-1232/" version="2.15.0.v20180916-1232">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.7.2.v20180829-1931/" version="1.7.2.v20180829-1931">
+</feature>
+<feature id="org.yakindu.base.xtext.utils.jface" url="features/org.yakindu.base.xtext.utils.jface_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.9.0.v20180906-1121/" version="4.9.0.v20180906-1121">
+</feature>
+<feature id="org.eclipse.cdt.gnu.debug" url="features/org.eclipse.cdt.gnu.debug_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.eclipse.cdt.native" url="features/org.eclipse.cdt.native_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.yakindu.base" url="features/org.yakindu.base_3.5.2.201902261347/" version="3.5.2.201902261347">
+</feature>
+<feature id="org.eclipse.cdt.gdb" url="features/org.eclipse.cdt.gdb_9.5.3.201809121146/" version="9.5.3.201809121146">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.6.200.v20180906-1121/" version="1.6.200.v20180906-1121">
+</feature>
+<feature id="org.eclipse.recommenders.news.rcp.feature" plugin-identifier="org.eclipse.recommenders.news" url="features/org.eclipse.recommenders.news.rcp.feature_2.5.4.v20180909-1132/" version="2.5.4.v20180909-1132">
+</feature>
+</site>
+</config>

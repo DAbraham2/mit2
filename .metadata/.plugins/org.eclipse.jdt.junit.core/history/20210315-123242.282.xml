@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunWithBigModel" project="hu.bme.mit.yakindu.analysis" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="hu.bme.mit.yakindu.analysis.workhere.Main" time="3.764">
+    <testcase name="test" classname="hu.bme.mit.yakindu.analysis.workhere.Main" time="3.764"/>
+  </testsuite>
+</testrun>
