@@ -7,10 +7,5 @@ GeneratorModel for yakindu::java {
 			targetFolder = "yakindu-gen"
 			libraryTargetFolder = "yakindu-gen"
 		}
-		feature GeneralFeatures {
-			InterfaceObserverSupport = false
-			RuntimeService = true
-			TimerService = true
-		}
 	}
 }

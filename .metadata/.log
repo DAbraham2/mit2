@@ -51,3 +51,9 @@ Binding(CTRL+D,
 
 !ENTRY unknown 4 0 2021-03-15 12:00:50.633
 !MESSAGE Execution of 'dbus-send --print-reply --dest=org.freedesktop.FileManager1 /org/freedesktop/FileManager1 org.freedesktop.FileManager1.ShowItems array:string:"file:/home/cloud/Documents/REMO_WS/hu.bme.mit.yakindu.analysis/" string:""' failed with return code: 1
+
+!ENTRY org.eclipse.help 4 0 2021-03-15 12:11:34.851
+!MESSAGE Required attribute "label" missing from "topic" element in "/org.yakindu.sct.doc.user/help/user-guide/c-domain-toc.xml" (skipping element)
+
+!ENTRY org.eclipse.help 4 0 2021-03-15 12:11:34.887
+!MESSAGE Required attribute "label" missing from "topic" element in "/org.yakindu.sct.doc.user/help/user-guide/scxml_domain-toc.xml" (skipping element)

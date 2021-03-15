@@ -19,14 +19,14 @@ public class RunStatechart {
 		s.init();
 		s.enter();
 		s.runCycle();
-		/*print(s);
+		print(s);
 		s.raiseStart();
 		s.runCycle();
 		System.in.read();
 		s.raiseWhite();
 		s.runCycle();
 		print(s);
-		System.exit(0); */
+		System.exit(0);
 		Scanner scanner = new Scanner(System.in);
 		while(true) {
 			System.out.println("Waiting for input...");
@@ -47,7 +47,6 @@ public class RunStatechart {
 					System.out.println("Unkown command");
 					break;
 			}
-			s.runCycle();
 			
 			print(s);
 		}
